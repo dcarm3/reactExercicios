@@ -83,7 +83,7 @@ export default function App() {
           <ul>
             <li>
               <Link href="/evolucoes?evolucao=squirtle" passHref>
-                <a href="./pages/pokemon/index.html?name=squirtle">
+                <a>
                   <figure>
                     <img
                       src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png"
@@ -97,7 +97,7 @@ export default function App() {
 
             <li>
               <Link href="/evolucoes?evolucao=wartortle" passHref>
-                <a href="./pages/pokemon/index.html?name=wartortle">
+                <a>
                   <figure>
                     <img
                       src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png"
@@ -111,7 +111,7 @@ export default function App() {
 
             <li>
               <Link href="/evolucoes?evolucao=blastoise" passHref>
-                <a href="./pages/pokemon/index.html?name=blastoise">
+                <a>
                   <figure>
                     <img
                       src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png"
